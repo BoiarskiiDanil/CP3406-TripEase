@@ -13,7 +13,7 @@ TripEase addresses the challenge of travel planning by providing a **centralised
 
 ## 👨‍🎓 Student Information
 - **Name**: Boiarskii Danil
-- **Student ID**: *(insert student ID)*
+- **Student ID**: *14533148*
 - **Campus**: James Cook University Singapore
 - **Course**: CP3406 – Mobile Computing
 
