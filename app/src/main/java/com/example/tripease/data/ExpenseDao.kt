@@ -7,6 +7,7 @@ import androidx.room.Query
 import com.example.tripease.model.Expense
 import kotlinx.coroutines.flow.Flow
 
+
 @Dao
 interface ExpenseDao {
 

@@ -8,6 +8,7 @@ import androidx.room.Query
 import com.example.tripease.model.Trip
 import kotlinx.coroutines.flow.Flow
 
+
 @Dao
 interface TripDao {
 
